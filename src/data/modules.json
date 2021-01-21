@@ -1,0 +1,96 @@
+[
+  {
+      "materiId": 1,
+      "title": "Pengertian Iman Kepada Hari Akhir",
+      "image": "https://cdn1-production-images-kly.akamaized.net/XQFQVrrrD4HQmVC-fi5oDzjFKQg=/750x416/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2703835/original/060532300_1547463460-macam-macam_bencana_alam.jpg",
+      "description": "Percaya dan yakin bahwa seluruh alam semesta dan isinya akan hancur suatu saat nanti dan setelah itu akan ada kehidupan yang kekal (akhirat).",
+      "subMateri" : [],
+      "tag" : "Pengertian"
+  },
+  {
+      "materiId": 2,
+      "title": "Macam - Macam Kiamat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTGAjmBZ-mBzQmFebAGbCmlGtULNRCr49ZszKXW87bG3B4ZdPQR",
+      "description": "Berikut macam - macam kiamat :",
+      "subMateri": [
+          {
+              "id": 1,
+              "title": "Kiamat Sugra (Kecil)",
+              "description": "Kiamat Sugra adalah peristiwa datangnya kematian bagi semua makhluk termasuk manusia yang bersifat lokal dan individu. Misalnya gempa, gunung meletus, dan sebagainya."
+          },
+          {
+              "id": 2,
+              "title": "Kiamat Kubra (Besar)",
+              "description": "Kiamat Kubra adalah hancurnya seluruh alam semesta dengan semua isinya atau berakhirnya seluruh kehidupan makhluk di alam dan berlanjut ke kehidupan yang kekal yaitu akhirat."
+          }
+      ],
+      "isHome": true,
+      "tag" : "Jenis"
+  },
+  {
+      "materiId": 3,
+      "title": "Dalil Naqli Tentang Hari Kiamat/Akhir",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQWgDDcxyI3UV-LZ-UEBkKosoUGEQ1SlR86ZAoYPtJjQ02JPVPw",
+      "description": "Dan (ingatlah) hari (ketika) ditiup sangkakala, maka terkejutlah segala yang di langit dan segala yang di bumi, kecuali siapa yang dikehendaki Allah. Dan semua mereka datang menghadap-Nya dengan merendahkan diri. (QS. An-Naml Ayat 87)",
+      "subMateri" : [],
+      "tag" : "Dalil"
+  },
+  {
+      "materiId": 4,
+      "title": "Fungsi Iman Kepada Hari Kiamat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ6KhK5D6hMDXaj9dKXy70e18u-xU8dGrhix7cjwGIpYMOgRwOw",
+      "description": "Membuat manusia senantiasa bersikap hati-hati, sehingga akan selalu taat kepada petunjuk agama dan sadar akan batas kesenangan hidup di dunia.\nTerus memperbaiki kualitas kebaikan, yaitu berbakti kepada Allah, orang tua, dan sesama manusia lain.\nMembuat manusia sadar bahwa kehidupan setelah kehidupan dunia merupakan tujuan manusia hidup di dunia.\nMendorong manusia agar menambah perbuatan baik (amal soleh) dan meninggalkan larangan Allah.\nMengingatkan bahwa kehidupan dunia adalah ladang kehidupan akhirat, jembatan untuk menuju ke alam akhirat, sehingga menghindarkan manusia dari sifat rakus, kikir, dan tamak.\nTidak iri terhadap kenikmatan yang didapat oleh orang lain.\nMembuat jiwa tenteram.",
+      "subMateri": [],
+      "isHome" : true,
+      "tag" : "Fungsi"
+  },
+  {
+      "materiId": 5,
+      "title": "Hikmah Iman Kepada Hari Kiamat",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVrOyaWlShyBNkmxZxVa_qwIgkuUCEQReZuLXW7wgds2jQnhuN",
+      "description": "Tidak meniru pola hidup orang kafir.\nMeningkatkan ketakwaan dan lebih giat dalam beramal saleh.\nSelalu berusaha berbuat benar dan baik.\nBerjihad dijalan Allah dengan harta dan jiwa.\nTidak kikir dalam memberi infaq.",
+      "subMateri": [],
+      "isHome" : true,
+      "tag" : "Hikmah"
+  },
+  {
+      "materiId": 6,
+      "title": "Periode Hari Akhir",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ7bl8BUS4RDOM7t5Wi0-Ja1mtEGWCqmqjFnXTeUGyavDp2wM5a7FSR88K&s=10",
+      "description": "Berikut periode hari akhir :",
+      "subMateri": [
+          {
+              "id": 1,
+              "title": "Yaumul Barzah / Alam Kubur",
+              "description": "masa antara sesudah meninggal nya seseorang sampai menunggu datangnya hari kiamat. (Q.S.Al Khafi ayat 99 )"
+          },
+          {
+              "id": 2,
+              "title": "Yaumul Baats",
+              "description": "masa dibangkitkannya manusia dari alam kubur mulai dari manusia pertama sampai manusia terakhir. ( Q.S. Al Zalazalah ayat 6 )"
+          },
+          {
+              "id": 3,
+              "title": "Yaumul Mahsyar",
+              "description": "masa dikumpulkannya manusia dipadang mahsyar untuk dihisab / diperhitungkan amal kebaikan dan keburukanya. (Q.S. Ibrahim : 48)"
+          },
+          {
+              "id": 4,
+              "title": "Yaumul Hisab / Mizan",
+              "description": "Masa diperhitungkan / ditimbang amal kebaikan dan keburukan manusia. ( Q.S. Yasin : 65 )"
+          },
+          {
+              "id": 5,
+              "title": "Yaumul Jaza’",
+              "description": "hari ketika semua manusia akan menerima balasan Allah SWT. sesuai dengan amalnya selama ia hidup di dunia. Sirat yaitu jembatan yang akan dilewati oleh manusia setelah dihisab dan ditimbang amal baik dan buruknya. Disini akan ditentukan manusia akan masuk neraka atau surga."
+          },
+          {
+              "id": 6,
+              "title": "Surga / Neraka",
+              "description": "Surga yaitu tempat balasan bagi orang yang beriman kepada Allah SWT. (Q.S. Al Hajj : 23 ) dan Neraka yaitu tempat balasan bagi orang yang ingkar kepada Allah SWT. (Q.S. Az Zumar : 32 )"
+          }
+      ],
+      "isHome" : true,
+      "tag" : "Periode"
+  }
+]

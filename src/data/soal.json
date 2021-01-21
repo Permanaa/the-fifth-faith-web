@@ -1,0 +1,286 @@
+[
+  {
+      "quizId" : 1,
+      "title" : "Latihan Soal Kiamat",
+      "description" : "Latihan soal untuk mengetahui seberapa mengerti kalian tentang materi yang telah kalian pelajari. Bentuk soal pilihan ganda.",
+      "time" : 30,
+      "count" : 10,
+      "question" : [
+          {   
+              "questionId" : 1,
+              "title" : "Setelah dibangkitkan dari dalam kubur, manusia berbondong-bondong menuju suatu tempat untuk mempertanggungjawabkan perbuatannya. Tempat yang dimaksud adalah . . .",
+              "0" : "Siratalmustakim",
+              "1" : "Surga",
+              "2" : "Neraka",
+              "3" : "Padang mahsyar",
+              "4" : "Padang arafah",
+              "answer" : "Padang mahsyar",
+              "pembahasan": "Padang Mahsyar merupakan tempat berkumpulnya seluruh manusia setelah hari kiamat."
+          },
+          {
+              "questionId" : 2,
+              "title" : "Alam siksa kubur disebut juga . . . ",
+              "0" : "Alam barzakh",
+              "1" : "Yaumul tanad",
+              "2" : "Yaumul hisab",
+              "3" : "Alam semesta",
+              "4" : "Yaumul waqiah",
+              "answer" : "Alam barzakh",
+              "pembahasan": "Alam siksa kubur disebut juga dengan alam barzakh yang artinya sebuah alam yang berada di antara dunia dan akhirat."
+          },
+          {
+              "questionId" : 3,
+              "title" : "Malaikat Allah SWT yang bertugas mencatat amal kebaikan yang dikerjalan manusia adalah . . .",
+              "0" : "Munkar",
+              "1" : "Nakir",
+              "2"  : "Ridwan",
+              "3" : "Atid",
+              "4" : "Rakib",
+              "answer" : "Rakib",
+              "pembahasan": "Malaikat Rakib : Mencatat amal kebaikan yang dikerjakan manusia\nMalaikat Atid : Mencatat amal buruk yang dikerjakan manusia"
+          },
+          {
+              "questionId" : 4,
+              "title" : "Dibangkitkannya nyawa manusia dari alam kubur ditandai dengan . . .",
+              "0" : "Ditiupnya sangkakala oleh Malaikat Izrail",
+              "1" : "Ditiupnya sangkakala oleh Malaikat Israfil",
+              "2"  : "Suara burung hud-hud",
+              "3" : "Bangkitnya Rasulullah saw",
+              "4" : "Bangkitnya para Rasul Allah SWT.",
+              "answer" : "Ditiupnya sangkakala oleh Malaikat Israfil",
+              "pembahasan": "Malaikat Israfil : Meniup sangkakala ketika hari kiamat tiba."
+          },
+          {
+              "questionId" : 5,
+              "title" : "Pernyataan yang merupakan perilaku orang yang beriman kepada hari akhir adalah . . .",
+              "0" : "Tidak merasa iri atas nikmat orang lain",
+              "1" : "Dunia dan seluruh isinya merupakan tujuan akhir",
+              "2"  : "Tergiur oleh gemerlapnya dunia",
+              "3" : "Cinta dunia harta secara berlebihan",
+              "4" : "Bersikap pesimis dan putus asa",
+              "answer" : "Tidak merasa iri atas nikmat orang lain",
+              "pembahasan": "Tidak merasa iri atas nikmat orang lain merupakan perilaku orang yang beriman kepada hari kiamat, dan itu merupakan jawaban yang tepat. "
+          },
+          {
+              "questionId" : 6,
+              "title" : "Seseorang akan berusaha menjadi lebih baik hari demi hari. Tidak ada hari yang dilalui tanpa perbuatan baik. Pernyataan tersebut merupakan salah satu perilaku orang yang . . .",
+              "0" : "Takabur",
+              "1" : "Ujub",
+              "2"  : "Beriman kepada hari akhir",
+              "3" : "Memiliki ketakwaan sekelas dengan rasul",
+              "4" : "Khianat",
+              "answer" : "Beriman kepada hari akhir",
+              "pembahasan": "Beriman kepada hari akhir berarti berperilaku baik, menjalankan perintah Allah Swt dan menjauhi larangan-Nya."
+          },
+          {
+              "questionId" : 7,
+              "title" : "Contoh kiamat kubra ditunjukkan oleh pernyataan . . .",
+              "0" : "Hancurnya seluruh alam dan seisinya",
+              "1" : "Terjadinya bencana alam di wilayah tertentu",
+              "2"  : "Adanya banjir bandang yang menghancurkan ratusan rumah",
+              "3" : "Kematian seseorang",
+              "4" : "Bencana gempa bumi yang kerap terjadi",
+              "answer" : "Hancurnya seluruh alam dan seisinya",
+              "pembahasan": "Kiamat Kubra adalah hancurnya seluruh alam semesta dengan semua isinya atau berakhirnya seluruh kehidupan makhluk di alam dan berlanjut ke kehidupan yang kekal yaitu akhirat."
+          },
+          {
+              "questionId" : 8,
+              "title" : "Berikut tanda-tanda kiamat kecil, kecuali . . .",
+              "0" : "Tersebarnya perzinaan",
+              "1" : "Minuman keras merajalela",
+              "2"  : "Fitnah muncul dimana-mana",
+              "3" : "Munculnya bangsa Yakjuj Makjuj",
+              "4" : "Pembunuhan terjadi dimana-mana",
+              "answer" : "Munculnya bangsa Yakjuj Makjuj",
+              "pembahasan": "Munculnya bangsa Yakjuj Makjuj merupakan tanda-tanda kiamat kubra/besar. "
+          },
+          {
+              "questionId" : 9,
+              "title" : "Iman terhadap hari kiamat merupakan rukun Iman ke . . .",
+              "0" : "5 (lima)",
+              "1" : "4 (empat)",
+              "2"  : "3 (tiga)",
+              "3" : "2 (dua)",
+              "4" : "6 (enam)",
+              "answer" : "5 (lima)",
+              "pembahasan": "Rukun Iman ada 6, dan Iman kepada hari kiamat merupakan rukun iman yang ke-5"
+          },
+          {
+              "questionId" : 10,
+              "title" : "Alam semesta ini akan . . .",
+              "0" : "Kekal",
+              "1" : "Hancur",
+              "2"  : "Tidak tentu",
+              "3" : "Berubah-ubah",
+              "4" : "Sesaat",
+              "answer" : "Hancur",
+              "pembahasan": "Saat hari kiamat terjadi, alam semesta ini akan hancur tanpa sisa sesuai dengan dalil terjadinya kiamat yaitu Q.S. Al Zalzalah."
+          }
+      ],
+      "tag": "quiz",
+      "isHome": true,
+      "isQuiz": false
+  },
+  {
+      "quizId" : 2,
+      "title" : "Quiz Kiamat",
+      "description" : "Soal-soal untuk mendapatkan nilai dan kepahaman kalian tentang materi yg telah kalian baca. Bentuk soal pilihan ganda.",
+      "time" : 30,
+      "count" : 15,
+      "question" : [
+          {   
+              "questionId" : 1,
+              "title" : "Selalu berusaha mendekatkan diri kepada Allah SWT. baik dengan melakukan ibadah ritual (seperti shalat) maupun dengan ibadah sosial, yaitu semua kegiatan yang bermanfaat bagi sesama. Pernyataan tersebut termasuk . . .",
+              "0" : "Perilaku yang menggambarkan kesadaran beriman kepada hari akhir",
+              "1" : "Hikmah beriman kepada hari akhir",
+              "2"  : "Manfaat beriman kepada hari akhir",
+              "3" : "Tujuan beriman kepada hari akhir",
+              "4" : "Manfaat dan tujuan beriman kepada hari akhir",
+              "answer" : "Perilaku yang menggambarkan kesadaran beriman kepada hari akhir"
+          },
+          {
+              "questionId" : 2,
+              "title" : "Muncul rasa kebencian yang dalam kepada kemaksiatan dan kebejatan moral yang mengakibatkan murka Allah SWT. di dunia dan di akhirat termasuk . . .",
+              "0" : "Tujuan beriman kepada hari akhir",
+              "1" : "Hikmah beriman kepada hari akhir",
+              "2"  : "Manfaat beriman kepada hari akhir",
+              "3" : "Perilaku yang menggambarkan kesadaran beriman kepada Hari Akhir",
+              "4" : "Manfaat dan tujuan beriman kepada hari akhir",
+              "answer" : "Perilaku yang menggambarkan kesadaran beriman kepada Hari Akhir"
+          },
+          {
+              "questionId" : 3,
+              "title" : "Secara bahasa Mizan artinya . . .",
+              "0" : "Jalan",
+              "1" : "Pintu",
+              "2"  : "Jembatan",
+              "3" : "Neraca",
+              "4" : "Padang Mahsyar",
+              "answer" : "Neraca"
+          },
+          {
+              "questionId" : 4,
+              "title" : "Manusia hidup di alam akhirat bersifat . . .",
+              "0" : "Sesaat",
+              "1" : "Kekal",
+              "2"  : "Sementara",
+              "3" : "Sebentar",
+              "4" : "Tidak tentu",
+              "answer" : "Kekal"
+          },
+          {
+              "questionId" : 5,
+              "title" : "Dibawah ini yang tidak termasuk tanda - tanda sesorang mengimani hari akhir adalah . . .",
+              "0" : "Takut menghadapi kematian",
+              "1" : "Selalu mengingat tanda - tanda datangnya hari akhir dengan baik",
+              "2"  : "Menjalankan perintah Allah Swt.",
+              "3" : "Bertawakal kepada Allah Swt.",
+              "4" : "Selalu berusaha ikhlas dalam melakukan pekerjaan",
+              "answer" : "Takut menghadapi kematian"
+          },
+          {
+              "questionId" : 6,
+              "title" : "Pernyataan dibawah ini yang tidak termasuk perilaku yang menceminkan keimanan terhadap hari akhir adalah . . .",
+              "0" : "Menghabiskan waktunya untuk berdzikir di dalam Masjid",
+              "1" : "Selalu bertaqwa kepada Allah SWT",
+              "2"  : "Menyantuni, Memelihara, Mengasuh, dan Mendidik anak Yatim",
+              "3" : "Disiplin dalam melakukan shalat 5 waktu",
+              "4" : "Mencintai fakir miskin yang diwujudkan dengan sedekah",
+              "answer" : "Menghabiskan waktunya untuk berdzikir di dalam Masjid"
+          },
+          {
+              "questionId" : 7,
+              "title" : "Berikut ini adalah tanda-tanda hari kiamat besar ,kecuali . . .",
+              "0" : "Munculnya Dajjal",
+              "1" : "Nabi Isa turun ke dunia",
+              "2"  : "Timbulnya berbagai fitnah",
+              "3" : "Ya'juj dan Ma'juj",
+              "4" : "Matahari terbit dari barat",
+              "answer" : "Timbulnya berbagai fitnah"
+          },
+          {
+              "questionId" : 8,
+              "title" : "Iman kepada hari akhir mempunyai nilai yang sangat tinggi dalam kehidupan manusia. Adanya hari kiamat menunjukkan bahwa kehidupan dunia memiliki tujuan, bukan sekedar hidup lalu mati dan tidak punya kelanjutan lagi. Oleh karena itu dengan beriman kepada hari akhir mempunyai beberapa hikmah, diantaranya . . .",
+              "0" : "Mengarahkan manusia untuk melakukan tindakan demi harta",
+              "1" : "Menggunakan harta secara boros dalam kesempatan hidup",
+              "2"  : "Berusaha untuk berbuat baik dan beribadah kepada Allah swt. dengan ikhlas",
+              "3" : "Menjalani hidup dengan pesimis karena adanya perhitungan semua amal",
+              "4" : "Berani menegakkan kebenaran untuk kepentingan diri dan kelompok",
+              "answer" : "Berusaha untuk berbuat baik dan beribadah kepada Allah swt. dengan ikhlas"
+          },
+          {
+              "questionId" : 9,
+              "title" : "Sekarang dimana-mana terjadi gempa bumi yang diakibatkan adanya tsunami atau gunung meletus. Hal itu baru merupakan bentuk kiamat kecil, dan belum terjadi kiamat besar yang sesungguhnya. Oleh karena itu umat manusia wajib meyakini adanya kiamat besar. Manfaat meyakini adanya kiamat besar adalah . . .",
+              "0" : "Mendorong untuk bersikap hati-hati dalam berperilaku dan bertindak",
+              "1" : "Membaca al Qur-an ketika bulan suci ramadhan",
+              "2"  : "Berinfaq dan bersadaqah karena disiarkan oleh media masa",
+              "3" : "Belajar rajin dan tekun ketika akan ujian saja, agar memperoleh nilai baik",
+              "4" : "Berbuat baik terhadap manusia kalau ada maunya",
+              "answer" : "Mendorong untuk bersikap hati-hati dalam berperilaku dan bertindak"
+          },
+          {
+              "questionId" : 10,
+              "title" : "Iman kepada hari akhir merupakan rukun iman kelima, yang wajib diimani oleh setiap muslim, oleh karena itu hari akhir pasti akan terjadi. Namun tidak ada seorangpun yang mengetahui kapan terjadinya karena . . .",
+              "0" : "Agar manusia tersebut senantiasa ingat akan hari akhir",
+              "1" : "Agar manusia itu bertaubat kepada Allah SWT",
+              "2"  : "Agar orang tersebut senantisa persiapan",
+              "3" : "Agar manusia bisa memanfaatkan kehidupan di dunia dengan berfoya-foya",
+              "4" : "Agar setiap orang dibalas sesuai dengan apa yang telah diusahakan",
+              "answer" : "Agar setiap orang dibalas sesuai dengan apa yang telah diusahakan"
+          },
+          {
+              "questionId" : 11,
+              "title" : "Hari akhir adalah hari hancurnya segala kehidupan alam semesta sekaligus menjadi awal kehidupan akherat. Oleh karena melalui proses /periode yaitu . . .",
+              "0" : "Yaumul barzah, yaumul baats, yaumul mahsyar, yaumul hisab, yaumul mizan, yaumul jaza’, neraka atau surga",
+              "1" : "Yaumul baats, yaumul hisab, yaumul mizan, yaumul mahsyar, yaumul jaza’ surga atau neraka",
+              "2"  : "Yaumul baats, yaumul mahsyar, yaumul jaza’, yaumul jaza, surga atau neraka",
+              "3" : "Yaumul mahsyar, yaumul hisab, yaumul mizan, yaumul jaza’, neraka atau surga",
+              "4" : "Yaumul barzah, yaumul baats, yaumul mahsyar, yaumul mizan, yaumul hisab, yaumul jaza’, neraka atau surga",
+              "answer" : "Yaumul barzah, yaumul baats, yaumul mahsyar, yaumul hisab, yaumul mizan, yaumul jaza’, neraka atau surga"
+          },
+          {
+              "questionId" : 12,
+              "title" : "Kita wajib beriman kepada hari akhir , karena kita memang diwajibkan oleh Allah SWT untuk beriman kepada hari akhir, banyak ayat al Qur-an yang menyebutkan hal itu, seperti ayat di bawah ini, kecuali . . .",
+              "0" : "Al Hajj : 7",
+              "1" : "Al Qari’ah : 1-5",
+              "2"  : "An Nahl : 1",
+              "3" : "Al Ankabut : 7",
+              "4" : "Al Zalzalah : 1-8",
+              "answer" : "Al Ankabut : 7"
+          },
+          {
+              "questionId" : 13,
+              "title" : "Ketika hari akhir terjadi, manusia berhamburan bagai anai-anai yang berterbangan, gunung-gunung berhamburan seperti bulu, maka dari itu orang yang berat timbangannya maka dia dalam kehidupan yang memuaskan. Hal tersebut diterangkan dalam Qur-an Surat . . .",
+              "0" : "Zilzalah :1-8",
+              "1" : "Qari’ah : 1-5",
+              "2"  : "Al Hajj :7",
+              "3" : "At Thoha : 15",
+              "4" : "Al Kiamat : 1-17",
+              "answer" : "Qari’ah : 1-5"
+          },
+          {
+              "questionId" : 14,
+              "title" : "Percaya dan yakin bahwa seluruh alam semesta dan isinya akan hancur suatu saat nanti dan setelah itu akan ada kehidupan yang kekal (akhirat) merupakan pengertian dari . . .",
+              "0" : "Iman kepada hari kiamat",
+              "1" : "Iman kepada qada’ dan qadar",
+              "2"  : "Kiamat sugra",
+              "3" : "Kiamat kubra",
+              "4" : "Bencana",
+              "answer" : "Iman kepada hari kiamat"
+          },
+          {
+              "questionId" : 15,
+              "title" : "Sebagai tanda-tanda hari kiamat, nanti akan ada orang yang mengaku sebagai utusan Allah yang bernama . . .",
+              "0" : "Nabi",
+              "1" : "Imam Mahdi",
+              "2"  : "Isa Al-Masih",
+              "3" : "Khidir",
+              "4" : "Dajjal",
+              "answer" : "Dajjal"
+          }
+      ],
+      "tag" : "quiz",
+      "isHome" : true,
+      "isQuiz": true
+  }
+]

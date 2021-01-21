@@ -1,0 +1,50 @@
+.wrapper {
+  position: relative; 
+  height: 100vh;
+}
+
+.container {
+  margin: auto 20px;
+}
+
+.headerWrapper {
+  width: 100%;
+  margin: 20px auto;
+  position: absolute;
+}
+
+.logo {
+  width: 50px;
+}
+
+.mainWrapper {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.titleWrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tag {
+  color: #FF6969;
+  font-weight: bold;
+  text-align: center;
+}
+
+.description {
+  width: 350px;
+  text-align: center;
+}
+
+.menuWrapper {
+  width: 100%;
+  position: absolute;
+  margin-top: -150px;
+  display: flex;
+  justify-content: center;
+}

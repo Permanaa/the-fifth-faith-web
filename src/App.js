@@ -1,25 +1,18 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react'
+import { Switch, Route, withRouter } from 'react-router-dom'
+import pages from './pages'
+import appRoute from './configs/appRoute'
+import './styles/global.scss'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Switch>
+      {appRoute.map(({name, exact, path}) => {
+        const props = { path, exact, component: pages[name]}
+        return <Route {...props} key={name} />
+      })}
+    </Switch>
   );
 }
 
-export default App;
+export default withRouter(App);
